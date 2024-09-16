@@ -17,44 +17,44 @@ const Style = () => {
 export { Style }
 /* 导航栏签颜色 */
 #sticky-nav.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #050c9c;
 }
 
 /* 夜间模式导航栏签颜色 */
 .dark div#sticky-nav {
- background-color: red;
+ background-color: #050c9c;
 }
 
 
 /* 首页开始阅读按钮 */
 .glassmorphism.w-40.z-40 {
-    background-color: #9c26b0;
+    background-color: #a7e6ff;
     border: none;
 }
 
 /* 标签颜色 */
 a.cursor-pointer.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #3abef9;
 }
 
 /* 移动端侧边栏 */
 #side-bar>.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #3abef9;
 }
 
 /* 移动端侧边栏菜单 */
 nav div:hover,li:hover {
-    background-color: #9c26b0!important;
+    background-color: #3572ef!important;
 }
 
 /* 悬浮菜单 */
 .right-2 .bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #a7e6ff;
 }
 
 /* 目录进度条 */
 .h-4.bg-indigo-400 {
-    background-color: #9c26b0;
+    background-color: #a7ef66;
 }
 
 /* 目录文字高亮 */
@@ -69,7 +69,7 @@ footer.bg-indigo-700{
 
 /* 翻页按钮 */
 button.bg-indigo-700{
-    background-color: #9c26b0;
+    background-color: #3abef9;
 }
 
 /* 文章页隐藏发布时间 */
