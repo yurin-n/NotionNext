@@ -4,16 +4,6 @@
  * 此处不支持tailwindCSS的 @apply 语法
  * @returns
  */
-const Style = () => {
-  return <style jsx global>{`
-    // 底色
-    .dark body{
-        background-color: black;
-    }
-
-  `}</style>
-}
-
 export { Style }
 /* 导航栏签颜色 */
 #sticky-nav.bg-indigo-700 {
